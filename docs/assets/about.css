@@ -1,0 +1,87 @@
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+.about h1{
+    color: rgb(32, 28, 28);
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+.about p{
+    color: rgb(150, 42, 42);
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 22px;
+}
+.about h2{
+    color: rgb(59, 21, 21);
+    font-size: 40px;
+}
+.c {
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.5em;
+    border-radius: 10px;
+    color: white;
+    width: 80%;
+    background-color: rgb(14, 19, 14);
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.python{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.5em;
+    border-radius: 10px;
+    color: white;
+    width: 70%;
+    background-color: green;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.Django{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.5em;
+    border-radius: 10px;
+    color: white;
+    width: 40%;
+    background-color: rgb(0, 128, 122);
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.HTML{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.5em;
+    border-radius: 10px;
+    color: white;
+    width: 50%;
+    background-color: rgb(128, 98, 0);
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.CSS{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.5em;
+    border-radius: 10px;
+    color: white;
+    width: 40%;
+    background-color: rgb(55, 0, 128);
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.about h3{
+    color: rgb(151, 63, 151);
+    font-family: sans-serif;
+
+}
